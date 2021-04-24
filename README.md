@@ -1,4 +1,7 @@
 # Health-Safety-System
+
+Hackathon ALGORHYTHM 2021
+
 Problem 1:
 
 We have successfully defined how to identify whether each person is wearing a mask or not.
